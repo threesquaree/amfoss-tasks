@@ -1,0 +1,16 @@
+for i in range(int(input())):
+    
+    n = int(input())
+    
+    multiples_countof3  = (n-1)//3
+    multiples_countof5  = (n-1)//5
+    multiples_countof15 = (n-1)//15
+
+    multiples_sumof3 = (3 * (multiples_countof3 * ((multiples_countof3)+1) // 2))
+    multiples_sumof5 = (5 * (multiples_countof5 * ((multiples_countof5)+1) // 2))
+    multiples_sumof15 = (15 * (multiples_countof15 * ((multiples_countof15)+1) // 2))
+
+    multiples_sumof_all = (multiples_sumof3) + (multiples_sumof5) - (multiples_sumof15)
+    print(multiples_sumof_all)
+
+

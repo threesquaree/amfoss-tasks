@@ -1,1 +1,2 @@
-
+# JSExplorer
+Again, a pretty interesting task because of javascript :). Page-1 was hassle free but it did take me some time to implement the functions on all the buttons in Page-2. Learnt about localStorage on YouTube. Others like changing background and showing time popup were on Google. Making the chart in page-3 was easy but putting the data in chart was kind of confusing. A quick stackoverflow search did the job.

@@ -1,4 +1,6 @@
 #Solution
+## Terminal Commands
+
 ### mkdir
 To make directories/folders East and North.
 ### touch 
@@ -13,3 +15,15 @@ To move a file from one location to another.
 To rename a file.
 ### cd 
 To change directory.
+
+## Git Commands
+### git init 
+To initialise the repository.
+### git checkout 
+To switch branch from 'master' to 'main'.
+### git add
+To add files to the staging area.
+### git commit -m
+To commit files in the staging area.
+### git push -u origin 
+To push the commited files to remote repository.

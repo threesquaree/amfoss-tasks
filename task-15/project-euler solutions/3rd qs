@@ -1,0 +1,14 @@
+T = int(input())
+for z in range(T):
+    N = int(input())
+    i = 2
+    largestprime = 2
+    while i*i <= N:
+        while N % i == 0:
+            largestprime = i
+            N //= i    
+        i += 1
+    if N > largestprime:
+        largestprime = N;
+    print(largestprime)
+
