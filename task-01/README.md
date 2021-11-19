@@ -1,4 +1,4 @@
-#Star all the amFOSS repositories
+# Star all the amFOSS repositories
 
 Even though this one was simple, the displayed output looked cool. Served as a good headstart for me.
 
