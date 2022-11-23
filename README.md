@@ -9,11 +9,11 @@
 | [TASK-00](https://github.com/threesquaree/amfoss-tasks/tree/main/task-00)   | Installing Ubuntu   | **Completed**   |
 | [TASK-01](https://github.com/threesquaree/amfoss-tasks/tree/main/task-01)    | Staring amFOSS repositories | **Completed** |
 | [TASK-02](https://github.com/threesquaree/amfoss-tasks/tree/main/task-02) | Coordinates-Location and Git | **Completed**     |
-| [TASK-03](https://github.com/threesquaree/amfoss-tasks/tree/main/task-03) | Programming            | Not Attempted yet      |
+| [TASK-03](https://github.com/threesquaree/amfoss-tasks/tree/main/task-03) | Programming            | 2 questions done      |
 | [TASK-04](https://github.com/threesquaree/amfoss-tasks/tree/main/task-04) | Aerglo Mars            | **Completed**      |
 | [TASK-05](https://github.com/threesquaree/amfoss-tasks/tree/main/task-05) | Let me C               | **Almost completed**  |
 | [TASK-06](https://github.com/threesquaree/amfoss-tasks/tree/main/task-06) | Flutter                | **Completed**      |
-| [TASK-07](https://github.com/threesquaree/amfoss-tasks/tree/main/task-07) | Rich Scraper           | Not Attempted yet |
+| [TASK-07](https://github.com/threesquaree/amfoss-tasks/tree/main/task-07) | Rich Scraper           | **Completed** |
 | [TASK-08](https://github.com/threesquaree/amfoss-tasks/tree/main/task-08) | JSExplorer             | **Completed**      |
 | [TASK-09](https://github.com/threesquaree/amfoss-tasks/tree/main/task-09) | Personal-Website       | **Completed**      |
 | [TASK-10](https://github.com/threesquaree/amfoss-tasks/tree/main/task-10) | CS50                   | Not Attempted yet |
