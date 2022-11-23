@@ -1,6 +1,6 @@
 # amFOSS tasks - Nayan MK
 
-#### I'm Nayan from Trivandrum, Kerala. I'm a fresher at Amrita School of Engineering, Amritapuri pursuing AIE(2021-2025).
+#### I'm Nayan from Trivandrum, Kerala. I'm a S3 student at Amrita School of Engineering, Amritapuri pursuing AIE(2021-2025).
 
 
 
