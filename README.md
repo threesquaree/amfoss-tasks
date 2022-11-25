@@ -16,7 +16,7 @@
 | [TASK-07](https://github.com/threesquaree/amfoss-tasks/tree/main/task-07) | Rich Scraper           | **Completed** |
 | [TASK-08](https://github.com/threesquaree/amfoss-tasks/tree/main/task-08) | JSExplorer             | **Completed**      |
 | [TASK-09](https://github.com/threesquaree/amfoss-tasks/tree/main/task-09) | Personal-Website       | **Completed**      |
-| [TASK-10](https://github.com/threesquaree/amfoss-tasks/tree/main/task-10) | CS50                   | Not Attempted yet |
+| [TASK-10](https://github.com/threesquaree/amfoss-tasks/tree/main/task-10) | CS50                   | Completed till week 1 |
 | [TASK-11](https://github.com/threesquaree/amfoss-tasks/tree/main/task-11) | Poster Design          | **Completed**      |
 | [TASK-12](https://github.com/threesquaree/amfoss-tasks/tree/main/task-12) | Make the Block         | **Completed**      |
 | [TASK-13](https://github.com/threesquaree/amfoss-tasks/tree/main/task-13) | Circuit Design         | Not Attempted yet  |
